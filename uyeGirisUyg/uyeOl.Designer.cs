@@ -44,23 +44,29 @@ namespace uyeGirisUyg
             // 
             // sifre
             // 
-            this.sifre.Location = new System.Drawing.Point(319, 146);
+            this.sifre.Location = new System.Drawing.Point(483, 170);
+            this.sifre.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.sifre.Multiline = true;
             this.sifre.Name = "sifre";
-            this.sifre.Size = new System.Drawing.Size(100, 20);
+            this.sifre.Size = new System.Drawing.Size(148, 30);
             this.sifre.TabIndex = 2;
             // 
             // adi
             // 
-            this.adi.Location = new System.Drawing.Point(319, 186);
+            this.adi.Location = new System.Drawing.Point(484, 210);
+            this.adi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.adi.Multiline = true;
             this.adi.Name = "adi";
-            this.adi.Size = new System.Drawing.Size(100, 20);
+            this.adi.Size = new System.Drawing.Size(148, 30);
             this.adi.TabIndex = 3;
             // 
             // renk
             // 
-            this.renk.Location = new System.Drawing.Point(319, 223);
+            this.renk.Location = new System.Drawing.Point(484, 250);
+            this.renk.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.renk.Multiline = true;
             this.renk.Name = "renk";
-            this.renk.Size = new System.Drawing.Size(100, 20);
+            this.renk.Size = new System.Drawing.Size(148, 30);
             this.renk.TabIndex = 4;
             // 
             // label6
@@ -68,9 +74,10 @@ namespace uyeGirisUyg
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.Bisque;
             this.label6.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label6.Location = new System.Drawing.Point(218, 147);
+            this.label6.Location = new System.Drawing.Point(334, 170);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(33, 17);
+            this.label6.Size = new System.Drawing.Size(42, 21);
             this.label6.TabIndex = 14;
             this.label6.Text = "Şifre";
             // 
@@ -79,9 +86,10 @@ namespace uyeGirisUyg
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Bisque;
             this.label2.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label2.Location = new System.Drawing.Point(218, 187);
+            this.label2.Location = new System.Drawing.Point(334, 210);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(29, 17);
+            this.label2.Size = new System.Drawing.Size(38, 21);
             this.label2.TabIndex = 15;
             this.label2.Text = "Adı";
             // 
@@ -90,26 +98,30 @@ namespace uyeGirisUyg
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Bisque;
             this.label3.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label3.Location = new System.Drawing.Point(218, 224);
+            this.label3.Location = new System.Drawing.Point(334, 250);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(39, 17);
+            this.label3.Size = new System.Drawing.Size(50, 21);
             this.label3.TabIndex = 16;
             this.label3.Text = "Renk";
             // 
             // kullaniciAd
             // 
-            this.kullaniciAd.Location = new System.Drawing.Point(319, 111);
+            this.kullaniciAd.Location = new System.Drawing.Point(483, 130);
+            this.kullaniciAd.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.kullaniciAd.Multiline = true;
             this.kullaniciAd.Name = "kullaniciAd";
-            this.kullaniciAd.Size = new System.Drawing.Size(100, 20);
+            this.kullaniciAd.Size = new System.Drawing.Size(150, 30);
             this.kullaniciAd.TabIndex = 1;
             // 
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox1.Image = global::uyeGirisUyg.Properties.Resources._2a2ddcc6dc432e75276b7a1e35ea202a;
-            this.pictureBox1.Location = new System.Drawing.Point(-45, -2);
+            this.pictureBox1.Image = global::uyeGirisUyg.Properties.Resources._2a2ddcc6dc432e75276b7a1e35ea202a_1_;
+            this.pictureBox1.Location = new System.Drawing.Point(-49, -144);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(505, 304);
+            this.pictureBox1.Size = new System.Drawing.Size(757, 673);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox1.TabIndex = 23;
             this.pictureBox1.TabStop = false;
@@ -119,9 +131,10 @@ namespace uyeGirisUyg
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Bisque;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label1.Location = new System.Drawing.Point(221, 111);
+            this.label1.Location = new System.Drawing.Point(334, 130);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(86, 17);
+            this.label1.Size = new System.Drawing.Size(108, 21);
             this.label1.TabIndex = 24;
             this.label1.Text = "Kullanıcı Adı";
             // 
@@ -130,9 +143,10 @@ namespace uyeGirisUyg
             this.btnkayit.BackColor = System.Drawing.Color.RosyBrown;
             this.btnkayit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnkayit.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnkayit.Location = new System.Drawing.Point(333, 260);
+            this.btnkayit.Location = new System.Drawing.Point(504, 300);
+            this.btnkayit.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnkayit.Name = "btnkayit";
-            this.btnkayit.Size = new System.Drawing.Size(85, 29);
+            this.btnkayit.Size = new System.Drawing.Size(127, 40);
             this.btnkayit.TabIndex = 5;
             this.btnkayit.Text = "Kayıt Ol";
             this.btnkayit.UseVisualStyleBackColor = false;
@@ -140,10 +154,10 @@ namespace uyeGirisUyg
             // 
             // uyeOl
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gold;
-            this.ClientSize = new System.Drawing.Size(448, 301);
+            this.ClientSize = new System.Drawing.Size(651, 384);
             this.Controls.Add(this.btnkayit);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.sifre);
@@ -154,9 +168,12 @@ namespace uyeGirisUyg
             this.Controls.Add(this.label3);
             this.Controls.Add(this.kullaniciAd);
             this.Controls.Add(this.pictureBox1);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "uyeOl";
-            this.Text = "uyeOl";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Üye Ol";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

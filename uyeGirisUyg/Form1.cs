@@ -26,6 +26,7 @@ namespace uyeGirisUyg
             {
                 mainForm ana = new mainForm(bulunanKullanici);
                 ana.Show();
+                this.Hide();
             }
             else
             {
@@ -53,6 +54,31 @@ namespace uyeGirisUyg
         {
             uyeOl uye = new uyeOl();
             uye.Show();
+        }
+
+        private void textBoxSifre_TextChanged(object sender, EventArgs e)
+        {
+            textBoxSifre.PasswordChar = '*';
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBoxNick_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void nicklbl_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void sfrelbl_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
