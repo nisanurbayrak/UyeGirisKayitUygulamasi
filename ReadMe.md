@@ -1,4 +1,4 @@
-<h2> Pokemon Temalı Üye Giriş Uygulaması <h3>
+<h2> Pokemon Temalı Üye Giriş Uygulaması <h2>
 C# temel bilgilerim ile eğitim sırasında 'Pokemon Temalı' veri tabanı kullanmadan yaptığım üye giriş uygulaması...
 <br>
 <strong> Giriş Ekranı <strong> <br>
