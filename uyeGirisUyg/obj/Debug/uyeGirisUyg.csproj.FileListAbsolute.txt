@@ -1,0 +1,12 @@
+C:\Users\nisan\source\repos\uyeGirisUyg\uyeGirisUyg\bin\Debug\uyeGirisUyg.exe.config
+C:\Users\nisan\source\repos\uyeGirisUyg\uyeGirisUyg\bin\Debug\uyeGirisUyg.exe
+C:\Users\nisan\source\repos\uyeGirisUyg\uyeGirisUyg\bin\Debug\uyeGirisUyg.pdb
+C:\Users\nisan\source\repos\uyeGirisUyg\uyeGirisUyg\obj\Debug\uyeGirisUyg.csproj.AssemblyReference.cache
+C:\Users\nisan\source\repos\uyeGirisUyg\uyeGirisUyg\obj\Debug\uyeGirisUyg.Form1.resources
+C:\Users\nisan\source\repos\uyeGirisUyg\uyeGirisUyg\obj\Debug\uyeGirisUyg.Properties.Resources.resources
+C:\Users\nisan\source\repos\uyeGirisUyg\uyeGirisUyg\obj\Debug\uyeGirisUyg.csproj.GenerateResource.cache
+C:\Users\nisan\source\repos\uyeGirisUyg\uyeGirisUyg\obj\Debug\uyeGirisUyg.csproj.CoreCompileInputs.cache
+C:\Users\nisan\source\repos\uyeGirisUyg\uyeGirisUyg\obj\Debug\uyeGirisUyg.exe
+C:\Users\nisan\source\repos\uyeGirisUyg\uyeGirisUyg\obj\Debug\uyeGirisUyg.pdb
+C:\Users\nisan\source\repos\uyeGirisUyg\uyeGirisUyg\obj\Debug\uyeGirisUyg.mainForm.resources
+C:\Users\nisan\source\repos\uyeGirisUyg\uyeGirisUyg\obj\Debug\uyeGirisUyg.uyeOl.resources
