@@ -8,7 +8,7 @@ C# temel bilgilerim ile eğitim sırasında 'Pokemon Temalı' veri tabanı kulla
 <br>
 <strong> Ana Sayfa <strong> <br>
 <p>Bilgilerinizin gözüktüğü sayfadır.</p> <br>
-<img src = "/uygulamaGörselleri/anaSayfa.PNG" alt = "AnaSayfa" style= "width:300px;"> <br>
+<img src = "/uygulamaGörselleri/AnaSayfa.PNG" alt = "AnaSayfa" style= "width:300px;"> <br>
 <strong> Üye Olma Ekranı <strong> <br>
 <img src = "/uygulamaGörselleri/uyeOl.PNG" alt = "Üye Olma Ekranı" style= "width:300px;">
 <hr>
